@@ -46,9 +46,8 @@ This portfolio website demonstrates my technical skills, design sense, and proje
 
 ## Contact
 Feel free to connect with me:  
-- **Email:** [your-email@example.com](mailto:your-email@example.com)  
+- **Email:** [your-email@example.com](mailto:shyamcb11@gmail.com)  
 - **GitHub:** [https://github.com/Shyamcharan06](https://github.com/Shyamcharan06)  
-- **LinkedIn:** [https://www.linkedin.com/in/shyamcharan-bharathi](https://www.linkedin.com/in/shyamcharan-bharathi)  
 
 ---
 
