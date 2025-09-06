@@ -8,7 +8,7 @@ const Landing = () => {
       data-aos="fade-up"
     >
       <h1 className="text-5xl font-bold mb-4">Shyamcharan Bharathi</h1>
-      <p className="text-xl animate-pulse">Frontend Developer | React & Tailwind Enthusiast</p>
+      <p className="text-xl animate-pulse">Frontend Developer | ML Enthusiast</p>
     </section>
   );
 };
