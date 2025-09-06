@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom colors */
+:root {
+  --text: #1f2937; /* gray-800 */
+  --background: #f3f4f6; /* gray-100 */
+  --secondary: #14b8a6; /* teal-500 */
+}
+
+.dark {
+  --text: #f3f4f6; /* gray-100 */
+  --background: #1f2937; /* gray-800 */
+  --secondary: #14b8a6; /* teal-500 */
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text);
+  transition: background-color 0.5s, color 0.5s;
+}
